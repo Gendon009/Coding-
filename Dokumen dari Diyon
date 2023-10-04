@@ -1,0 +1,9 @@
+
+let firstname = "gideon"
+let lastname ="chandra"
+let age= 25
+let isMarried= age > 24
+
+console.log("namaku:" + " " + firstname + " " + lastname)
+console.log("umurku:" + " " + age)
+console.log("menikah:" + " "+ isMarried) 
